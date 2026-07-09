@@ -1,0 +1,215 @@
+#EXTM3U
+#EXTINF:-1,Стб 
+http://50.7.231.221:8081/101/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Уникум
+http://50.7.231.221:8081/102/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Ictv
+http://50.7.231.221:8081/103/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Cinema
+http://50.7.231.221:8081/104/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,ТнТ 4
+http://50.7.231.221:8081/105/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Пятница
+http://50.7.231.221:8081/106/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Ю
+http://50.7.231.221:8081/107/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,365
+http://50.7.231.221:8081/108/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Wiasat explore
+http://50.7.231.221:8081/109/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Wiasat nature
+http://50.7.231.221:8081/110/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Wiasat history
+http://50.7.231.221:8081/111/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Travel +
+http://50.7.231.221:8081/112/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Travel
+http://50.7.231.221:8081/113/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,History
+http://50.7.231.221:8081/114/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Наука
+http://50.7.231.221:8081/115/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Т 24
+http://50.7.231.221:8081/116/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Оружие
+http://50.7.231.221:8081/117/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Моя планета
+http://50.7.231.221:8081/118/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Доктор
+http://50.7.231.221:8081/120/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Охота и рыбалов
+http://50.7.231.221:8081/121/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,1 HD
+http://50.7.231.221:8081/122/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,СтС Love
+http://50.7.231.221:8081/123/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Киносат
+http://50.7.231.221:8081/124/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,1+1 
+http://50.7.231.221:8081/125/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Еврокино
+http://50.7.231.221:8081/126/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Нст
+http://50.7.231.221:8081/127/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Индийское кино
+http://50.7.231.221:8081/128/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Кинокомедия
+http://50.7.231.221:8081/129/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Иллюзион +
+http://50.7.231.221:8081/130/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Русский иллюзион
+http://50.7.231.221:8081/131/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,А1
+http://50.7.231.221:8081/132/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,TV XXI 
+http://50.7.231.221:8081/133/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Премиальное HD
+http://50.7.231.220:8081/134/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Русский бестселлер
+http://50.7.231.220:8081/135/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Русский детектив
+http://50.7.231.221:8081/136/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,TV 1000
+http://50.7.231.221:8081/137/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,TV 1000 ACTION
+http://50.7.231.221:8081/138/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,TV 1000 русское кино
+http://50.7.231.221:8081/139/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,ViP Premiere HD
+http://50.7.231.221:8081/140/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,ViP Megahit HD
+http://50.7.231.221:8081/141/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,ViP Comedy HD
+http://50.7.231.221:8081/142/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,В
+http://50.7.231.221:8081/143/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Жара TV
+http://50.7.231.221:8081/144/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Sony Sci-Fi
+http://50.7.231.221:8081/145/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Авто 24
+http://50.7.231.221:8081/146/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Авто плюс
+http://50.7.231.221:8081/147/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Матч боец
+http://50.7.231.221:8081/148/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,KHL
+http://50.7.231.221:8081/149/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Sport 1
+http://50.7.231.221:8081/150/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Sport 2
+http://50.7.231.221:8081/151/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Wiasat sport
+http://50.7.231.221:8081/152/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,2х2
+http://50.7.231.221:8081/153/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Disney
+http://50.7.231.221:8081/154/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Nickelodeon
+http://50.7.231.220:8081/155/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Уникум
+http://50.7.231.221:8081/156/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Карусель
+http://50.7.231.221:8081/157/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Радость моя
+http://50.7.231.221:8081/158/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,ТНТ-Music
+http://50.7.231.221:8081/159/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Bridge TV 
+http://50.7.231.221:8081/160/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Кинопоказ
+http://50.7.231.220:8081/161/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,М1 UA
+http://50.7.231.221:8081/162/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Муз-тв
+http://50.7.231.221:8081/163/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Music Box
+http://50.7.231.221:8081/164/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Шансон ТВ
+http://50.7.231.221:8081/165/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Russian Music Box
+http://50.7.231.221:8081/168/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,ШОКИРУЮЩЕЕ HD 
+http://50.7.231.220:8081/169/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Комедийное HD
+http://50.7.231.220:8081/170/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Viasat Nature-History HD
+http://50.7.231.221:8081/171/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Романтичное HD
+http://50.7.231.221:8081/172/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Мульт
+http://50.7.231.221:8081/178/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Родное кино
+http://50.7.231.221:8081/179/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Guli girl
+http://50.7.231.221:8081/180/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Киномикс
+http://50.7.231.221:8081/181/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Paramount Channel
+http://50.7.231.221:8081/182/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Amedia Hit HD
+http://50.7.231.221:8081/183/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Bollywood HD
+http://50.7.231.221:8081/184/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,9
+http://50.7.231.221:8081/185/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Дом кино
+http://50.7.231.221:8081/186/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Дом кино премиум
+http://50.7.231.221:8081/187/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Мужской
+http://50.7.231.221:8081/188/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Бобёр
+http://50.7.231.221:8081/189/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Ani
+http://50.7.231.221:8081/190/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,А2
+http://50.7.231.221:8081/192/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Amedia Premium HD
+http://50.7.231.221:8081/193/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Мама
+http://50.7.231.221:8081/194/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Наше новое кино
+http://50.7.231.221:8081/197/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Мм
+http://50.7.231.221:8081/199/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Кинохит
+http://50.7.231.221:8081/200/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Tiji
+http://50.7.231.221:8081/202/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Кинопримьера
+http://50.7.231.221:8081/203/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Мульт HD
+http://50.7.231.221:8081/206/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Сарафан
+http://50.7.231.221:8081/209/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Nick Jr
+http://50.7.231.221:8081/210/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Filmbox
+http://50.7.231.221:8081/214/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Bolt
+http://50.7.231.221:8081/215/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Страх HD
+http://50.7.231.221:8081/216/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Bridge hits
+http://50.7.231.221:8081/217/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Хит HD
+http://50.7.231.221:8081/219/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Суббота
+http://50.7.231.221:8081/220/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Капитан фантастика
+http://50.7.231.221:8081/222/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Мультиландия
+http://50.7.231.221:8081/223/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Музыка первого
+http://50.7.231.221:8081/225/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Киноужас
+http://50.7.231.221:8081/227/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Романтичное HD
+http://50.7.231.221:8081/229/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Золотая коллекция
+http://50.7.231.221:8081/235/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Наше любимое
+http://50.7.231.221:8081/236/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1,Про любовь
+http://50.7.231.221:8081/237/index.m3u8?wmsAuthSign=okad
