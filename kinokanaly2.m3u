@@ -1,0 +1,142 @@
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip"  
+#EXTINF:-1,Киносемья HD
+http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+#EXTINF:-1,Кинокомедия HD
+http://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
+#EXTINF:-1,Кинохит HD
+http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+#EXTINF:-1,Киномикс HD
+http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+#EXTINF:-1,Мужское кино
+https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
+#EXTINF:-1,Победа
+https://sc.id-tv.kz/Pobeda_34_35.m3u8
+#EXTINF:-1,Amedia Hit HD
+http://sc.id-tv.kz:80/amedia_hit_hd_38_39.m3u8
+#EXTINF:-1,Hollywood HD
+https://plbl.m9.lfstrm.tv/amc/normal/1/index.m3u8
+#EXTINF:-1,Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1,Победа
+https://sc.id-tv.kz/Pobeda_36_37.m3u8
+#EXTINF:-1,СТРК HD
+http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
+#EXTINF:-1,Kronehit HD
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+
+#EXTINF:-1,A2
+https://sc.id-tv.kz/A2_38_39.m3u8
+#EXTINF:-1  tvg-logo="https://karnei4.github.io/convert/AMEDIAHITHD.png",Amedia Hit HD
+https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
+#EXTINF:-1,Bollywood HD
+https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+#EXTINF:-1,Cinema
+https://sc.id-tv.kz/Cinema_34_35.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.discordapp.com/attachments/390472958440767488/674565182785323014/catcast.png",FILM TV HD
+http://v2.catcast.tv/content/38144/index.m3u8
+#EXTINF:-1,Fox
+http://188.113.190.12/57/tracks-v1a1/index.m3u8
+#EXTINF:-1,Spike
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.discordapp.com/attachments/390472958440767488/674565182785323014/catcast.png",vhs 90s
+http://v2.catcast.me/content/37925/index.m3u8
+#EXTINF:-1,Дом кино
+https://iptvdom.my1.ru/load/0-0-2-264-20
+#EXTINF:-1,Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
+#EXTINF:-1,Камин
+http://v2.catcast.me/content/36334/index.m3u8
+#EXTINF:-1,Кино 24
+http://85.192.44.14/hls/Kino24Ru/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.discordapp.com/attachments/390472958440767488/674565182785323014/catcast.png",кино с плюсом
+http://v2.catcast.tv/content/37353/index.m3u8
+#EXTINF:-1  tvg-logo="http://127.0.0.1/",Кинозал 11 (Любимое индийское кино)
+https://v2.catcast.tv/content/37353/index.m3u8
+#EXTINF:-1  tvg-logo="http://127.0.0.1/",Кинозал 17 (VHS 90s)
+https://v2.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1  tvg-logo="http://127.0.0.1/",Кинозал 27 (akudji)
+https://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1,Кинозал 9 (Боль)
+https://hls.goodgame.ru/hls/73474.m3u8
+#EXTINF:-1,Кинопремьера
+https://sc.id-tv.kz/Kinopremiera_hd_38_39.m3u8
+#EXTINF:-1,Кинопремьера HD
+https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+#EXTINF:-1,Красная линия
+https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.discordapp.com/attachments/390472958440767488/674565182785323014/catcast.png",Любимое индийское кино
+http://v2.catcast.me/content/37353/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.discordapp.com/attachments/390472958440767488/674565182785323014/catcast.png",Марс-ТВ
+http://v2.catcast.me/content/37033/index.m3u8
+#EXTINF:-1,Мужское кино
+http://188.113.190.12/316/video.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.discordapp.com/attachments/390472958440767488/674565182785323014/catcast.png",Музыка Кино
+http://v2.catcast.me/content/37739/index.m3u8
+#EXTINF:-1,Рен ТВ HD
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:-1,ТВ-3
+http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/tv3/playlist.m3u8
+#EXTINF:-1,Fox Life
+http://51.68.141.106:8081/tv/fox-life/playlist.m3u8
+#EXTINF:-1,Fox HD
+https://sc.id-tv.kz/FOX_HD_34_35.m3u8
+#EXTINF:-1,Кино ТВ
+http://51.195.44.53:8081/tv/kino-tv/playlist.m3u8
+#EXTINF:-1,Домашний
+http://51.195.44.53:8081/tv/domashniy/playlist.m3u8
+#EXTINF:-1,TV1000
+http://51.68.140.190:8081/tv/tv1000/playlist.m3u8
+#EXTINF:-1,TV1000 Русское кино
+http://185.74.7.220:8080/tv1000ru/tracks-v1a1/index.m3u8
+#EXTINF:-1,Мосфильм Золотая Коллекция HD
+http://109.200.130.124:7007/play/a018
+#EXTINF:-1,VIP Comedy HD
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=vip_comedy
+#EXTINF:-1,VIP Megahit
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=vip_megahit
+#EXTINF:-1,VIP Premiere HD
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=vip_premiere
+#EXTINF:-1,VIP Serial
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=vip_serial
+#EXTINF:-1,Наш Кинороман HD
+http://ott.watch/stream/IFBYIR5OA7/213.m3u8
+#EXTINF:-1,Наше Крутое HD
+http://ott.watch/stream/IFBYIR5OA7/217.m3u8
+#EXTINF:-1,Дом кинo
+http://cdn.nexttvnet.ru/hlsl/10/Dom_kino/Dom_kino_3/index.m3u8
+#EXTINF:-1,Фантастика Sci-Fi
+https://autopilot.catcast.tv/content/38801/index.m3u8
+#EXTINF:-1,СССР ТВ
+https://autopilot.catcast.tv/content/38821/index.m3u8
+#EXTINF:-1,Ужастик
+https://autopilot.catcast.tv/content/38896/index.m3u8
+#EXTINF:-1,ПРЕМЬЕРА
+https://autopilot.catcast.tv/content/39161/index.m3u8
+#EXTINF:-1,VIP Comedy FHD
+http://195.189.105.158:9050/132/index.m3u8
+#EXTINF:-1,VIP Megahit HD
+http://195.189.105.158:9050/133/index.m3u8
+#EXTINF:-1,VIP Premiere HD
+http://195.189.105.158:9050/134/index.m3u8
+#EXTINF:-1,TV 1000 World Kino
+http://195.189.105.158:9050/121/index.m3u8
+#EXTINF:-1,Русский Роман
+http://147.135.210.90:8081/tv/rus-roman-6r/playlist.m3u8
+#EXTINF:-1,Русский Иллюзион
+http://51.68.141.106:8081/tv/rus-illus/playlist.m3u8
+#EXTINF:-1,Русский Детектив
+http://51.195.44.53:8081/tv/rus-detektiv/playlist.m3u8
+#EXTINF:-1,Русский Бестселлер
+http://51.68.141.106:8081/tv/rus-bestceller/chunks.m3u8
+#EXTINF:-1,Кинозал 12
+http://v2.catcast.me/content/38896/index.m3u8
+#EXTINF:-1,ULTO
+http://ultotv.ru:8888/live/uhd/playlist.m3u8
+#EXTINF:-1,Дом Кино Премиум HD
+https://sc.id-tv.kz/domkino_hd_38_39.m3u8
+#EXTINF:-1,Киносвидание HD
+http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+#EXTINF:-1,Кино 1
+http://v2.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1,Рен ТВ International
+http://sc.id-tv.kz/RenTV_36_37.m3u8
