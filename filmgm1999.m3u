@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:11320 type="vod",Зеленая миля (1999)
+#EXTINF:11320 type="vod" start="2220",Зеленая миля (1999)
 http://e91378xl.beget.tech/Зеленая_миля.mp4
