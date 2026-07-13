@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 type="vod",Зеленая миля (1999)
+#EXTINF:0, Зеленая миля (1999)
 https://ne13-52bff0b030ce.herokuapp.com/stream/2999928?hash=547617&d=truehash=547617
